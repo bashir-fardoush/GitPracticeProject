@@ -10,12 +10,12 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         
          // simple method to test pull down
-        add(2,3);
+        add(2,3)
     }
     
     private fun add(a : Int, b : Int){
 
-        var c : Int  = a+b;
+        var c : Int  = a+b
 
     }
 }
